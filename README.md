@@ -45,4 +45,4 @@ af, ar, az, bg, bn, bs, ca, cs, da, de, dsb, el, en, es, et, eu, fa, fi, fr, gl,
 
 ## License
 
-Materialize-Selec2-Rails is released under the [MIT License](http://www.opensource.org/licenses/MIT).
+Materialize-Select2-Rails is released under the [MIT License](http://www.opensource.org/licenses/MIT).
